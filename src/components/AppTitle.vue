@@ -7,7 +7,7 @@ export default{
 <template>
 
   <div>
-    <h1 class="green">Hello World!</h1>
+    <h1 class="green">La mia prima app con Vite!</h1>
   </div>
 
 </template>
